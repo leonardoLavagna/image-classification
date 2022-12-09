@@ -13,5 +13,5 @@ Here you can find:
 ### Dataset
 All the images we used for the classification task are in the zipped folders `model.zip` and `query.zip`. This last zipped folders contains some query images and on these the classification task has been carried out.
 
-## Disclamair
+### Disclamair
 This project was part of a course of Foundamentals of Data Science at Sapienza University of Rome held by Prof. F. Galasso. This project was done in collaboration with Edoardo Loru and Alessia Sgrigna.
