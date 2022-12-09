@@ -1,5 +1,8 @@
 # image-classification!
-[download](https://user-images.githubusercontent.com/91341004/206717064-582e3c6d-6c6f-4773-8787-cf9e091ae422.png)
+
+![img_redme](https://user-images.githubusercontent.com/91341004/206717801-c80bb133-dd54-4ecc-8d22-f04b01c4fec9.png)
+
+We will carry out an image identification task based on filters, convolution, and color histograms.
 
 
 ### What's in here?
