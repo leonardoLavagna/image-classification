@@ -1,4 +1,4 @@
-# image-classification!
+# image-classification
 
 ![img_redme](https://user-images.githubusercontent.com/91341004/206717801-c80bb133-dd54-4ecc-8d22-f04b01c4fec9.png)
 
